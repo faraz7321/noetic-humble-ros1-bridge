@@ -5,7 +5,7 @@ An implementation of [ros1_bridge][1] using with upstream ROS on Ubuntu 22.04 as
 ## Getting started
 
 - Clone this repository to your local machine:
-	````git clone https://git.hb.dfki.de/fahmad/noetic-humble-ros1-bridge.git````
+	````git clone https://github.com/faraz7321/noetic-humble-ros1-bridge.git````
 - To build the docker image:
 	````make build-bridge````
 - To run the container:
